@@ -13,7 +13,7 @@ spec:
     metadata:
       name: '{{cluster.name}}-guestbook'
     spec:
-      project: neuvectoragent
+      project: ff89e43b
       source:
         repoURL: https://github.com/phuongvanle/applicationset.git 
         targetRevision: HEAD
