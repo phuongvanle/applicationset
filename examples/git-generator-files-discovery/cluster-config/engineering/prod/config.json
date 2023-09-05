@@ -4,7 +4,7 @@
   "cluster": {
     "owner": "cluster-admin@company.com",
     "name": "engineering-prod",
-    "address": "neuvectorcluster",
+    "address": "https://kubernetes.default.svc",
     "namespace": "engineering-prod"
   }
 }
