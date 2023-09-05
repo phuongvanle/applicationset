@@ -4,7 +4,7 @@
   "cluster": {
     "owner": "cluster-admin@company.com",
     "name": "engineering-prod",
-    "address": "https://172.16.202.91:6443",
+    "address": "neuvector-cluster",
     "namespace": "engineering-prod"
   }
 }
